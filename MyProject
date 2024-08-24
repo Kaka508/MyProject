@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoonStar Hotel & Resorts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MoonStar Hotel & Resorts</h1>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Welcome to MoonStar Hotel & Resorts</h2>
+            <p>MoonStar Hotel & Resorts is a family-friendly hotel offering a wide range of accommodation options, from rooms to suites.</p>
+            <p>All this in the peaceful surroundings of our beautiful gardens will make your time at MoonStar an unforgettable holiday.</p>
+            <p>MoonStar Hotel & Resorts offers you a privileged experience combining comfort and conviviality.</p>
+            <p>Whether you are a backpacker, a solo traveler, or with your family, our hotel with top-of-the-range service will meet all your expectations.</p>
+            <p>More than just a hotel, MoonStar offers you a place to live and meet people.</p>
+        </section>
+
+        <section class="about">
+            <h2>About Us</h2>
+            <p>MoonStar Hotel & Resorts is a place where you can enjoy a tranquil atmosphere and high-quality services. We offer a family-friendly environment, comfort, and the chance to meet new people.</p>
+        </section>
+
+        <section class="rooms">
+            <h2>Rooms & Suites</h2>
+            <p>We offer a wide range of rooms and suites to suit various needs. Each room is equipped with modern amenities to ensure a pleasant stay.</p>
+        </section>
+
+        <section class="services">
+            <h2>Services</h2>
+            <p>MoonStar Hotel & Resorts offers various services, including breakfast, spa, activities, and other amenities to make your stay even more enjoyable.</p>
+        </section>
+
+        <section class="reviews">
+            <h2>Reviews</h2>
+            <p>Read reviews from our previous guests to learn more about our services and the quality of our hotel.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 MoonStar Hotel & Resorts.</p>
+        <p>Hotel owner: Demonslayer</p>
+    </footer>
+</body>
+</html>
